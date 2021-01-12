@@ -1,7 +1,4 @@
-com/example/javaEE/Servlet.class
-com/example/javaEE/JDBCUtils.class
-com/example/javaEE/controllers/LoginController.class
-com/example/javaEE/dao/LoginDao.class
-com/example/javaEE/beans/TasksBean.class
-com/example/javaEE/beans/LoginBean.class
-com/example/javaEE/beans/UsersBean.class
+com/example/javaEE/model/User.class
+com/example/javaEE/dao/DataService.class
+com/example/javaEE/model/Notes.class
+com/example/javaEE/UsersController.class
